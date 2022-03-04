@@ -1,0 +1,15 @@
+C:\Users\jemta\source\repos\CSProj\CSProj\bin\Debug\CSProj.exe.config
+C:\Users\jemta\source\repos\CSProj\CSProj\bin\Debug\CSProj.exe
+C:\Users\jemta\source\repos\CSProj\CSProj\bin\Debug\CSProj.pdb
+C:\Users\jemta\source\repos\CSProj\CSProj\obj\Debug\CSProj.Form1.resources
+C:\Users\jemta\source\repos\CSProj\CSProj\obj\Debug\CSProj.Properties.Resources.resources
+C:\Users\jemta\source\repos\CSProj\CSProj\obj\Debug\CSProj.csproj.GenerateResource.cache
+C:\Users\jemta\source\repos\CSProj\CSProj\obj\Debug\CSProj.csproj.CoreCompileInputs.cache
+C:\Users\jemta\source\repos\CSProj\CSProj\obj\Debug\CSProj.exe
+C:\Users\jemta\source\repos\CSProj\CSProj\obj\Debug\CSProj.pdb
+C:\Users\jemta\source\repos\CSProj\CSProj\obj\Debug\CSProj.csproj.AssemblyReference.cache
+C:\Users\jemta\source\repos\CSProj\CSProj\obj\Debug\CSProj.AddMovie.resources
+C:\Users\jemta\source\repos\CSProj\CSProj\obj\Debug\CSProj.DeleteMovie.resources
+C:\Users\jemta\source\repos\CSProj\CSProj\obj\Debug\CSProj.UpdateMovie.resources
+C:\Users\jemta\source\repos\CSProj\CSProj\obj\Debug\CSProj.About.resources
+C:\Users\jemta\source\repos\CSProj\CSProj\obj\Debug\CSProj.csproj.SuggestedBindingRedirects.cache
